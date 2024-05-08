@@ -1,0 +1,30 @@
+Name: Bernard Jezua R. Tandang
+Section: CMSC 100 - EF2L
+
+======= EXPECTATIONS ABOUT CMSC 100 =======
+Hello! My name is Bern, a Batch 2021 B.S. Computer Science sophomore.
+Below are my short expectations about CMSC 100 (Web Development).
+
+I expect that I would have a glimpse of the following:
+  1. Learning more about MERN stack (MongoDB, Express, React, Node)
+  2. Differentiating back-end and front-end development
+  3. Recognizing my strengths in back-end, front-end, or full-stack development
+
+However, as a beginner who only knows basic HTML, CSS, and Javascript concepts,
+I am nervous because this will be my first time trying out most of the languages
+and scripts covered by the course. I hope that I do get to learn more.
+
+Looking forward to this semester! :) 
+
+
+Comments:
+
+PS. pede magtagalog diba?? hahahahaha okie okie
+
+For number 1, yeah I agree hahaha. Kahit wala akong masyadong idea dun, hopefully learn more on things na about web developing.
+
+Para sa number 2 naman, agree again haha. Actually wala talaga akong alam we developing, slight lang nung CMSC 12, kaya really looking forward to it especially yung frontend hehehe.
+
+Sa number 3 naman, I think madidiscover mo sya teh since magaling si sir haha. For me naman, meron nakong idea kung saan gusto ko ehehe.
+
+my last comment, I think most of us naman kinakabahan sa mga upcoming lessons so kapit lang kapatid, kakayanin natin tong lahat. Hopefully all of us will learn a lot of things that will help us to discover our passion in life hehe. 
